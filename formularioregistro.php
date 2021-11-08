@@ -9,7 +9,7 @@
 </head>
 <body>
 	<form method="post">
-	<h1 style="color: white">Sao Unital Ring Space</h1>
+	<h1 style="color: white">Sao Unital Ring Space game</h1>
 	<section class="form-register">
 		<h3>Registro de jugador</h3>
 		<input class="controls" type="text" name="nombres" placeholder="ingresar su id de jugador">
