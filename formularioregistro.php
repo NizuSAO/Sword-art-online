@@ -16,9 +16,9 @@
 		<input class="controls" type="password" name="contraseña" placeholder="ingresar su contraseña">
 		<input class="controls" type="email" name="correo" placeholder="ingresar su email">
 		<input class="controls" type="date" name="fecha" placeholder="ingresar su fecha">
-		<p>Estoy de acuerdo con los <a href="">terminos y condiciones</a> </p>
+		<p>Estoy de acuerdo con los <a href="terminosycondiciones.html">terminos y condiciones</a> </p>
 		<input class="botons" type="submit" name="Registrar">
-		<p><a href="#">ya tengo cuenta</a></p>
+		<p><a href="yatengocuenta.html">ya tengo cuenta</a></p>
 	</section>
 	</form>
 
