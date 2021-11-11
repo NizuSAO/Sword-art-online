@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+<?php
+	include("registrar.php") 
+	 ?>
+<!DOCTYPE html> 
 <html>
 <head>
 	<meta charset="utf-8">
@@ -17,14 +20,12 @@
 		<input class="controls" type="email" name="correo" placeholder="ingresar su email">
 		<input class="controls" type="date" name="fecha" placeholder="ingresar su fecha">
 		<p>Estoy de acuerdo con los <a href="terminosycondiciones.html">terminos y condiciones</a> </p>
-		<input class="botons" type="submit" name="Registrar">
+		<input class="botons" type="submit" name="Registrar"> 
 		<p><a href="yatengocuenta.html">ya tengo cuenta</a></p>
 	</section>
 	</form>
 
-	<?php
-	include("registrar.php") 
-	 ?>
+	
 
 </body>
 </html>
